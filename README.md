@@ -1,5 +1,5 @@
 # mini_project
-# 빅데이터 - Streamlit 시각화 APP 만들기
+# Streamlit 시각화 APP 만들기
 ![](./images/mpg.jpg)
 ## 과제 (2025.03.24)
 
