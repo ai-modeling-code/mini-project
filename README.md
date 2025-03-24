@@ -1,7 +1,7 @@
 # mini_project
 # Streamlit 시각화 APP 만들기
 ![](./images/mpg.jpg)
-## 과제 (2025.03.24)
+## 과제 
 
 - MISSION :<br>
 위 스크린샷 에서와 같은 연비 (mpg)를 예측하는 Streamlit app을 만들어 본다.<br>
